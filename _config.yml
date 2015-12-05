@@ -1,0 +1,11 @@
+# Site settings
+title: No Filter.
+email: liu.monica.f@gmail.com
+description: Like an RSS feed on my brain.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://monicathe.me" # the base hostname & protocol for your site
+twitter_username: moonicaLiu
+github_username:  mfliu
+exclude: [.bundle, bin, vendor]
+# Build settings
+markdown: kramdown
