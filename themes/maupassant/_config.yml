@@ -4,7 +4,7 @@ menu:
     directory: home/
     icon: Home
   - page: blog
-    directory: /
+    directory: blog/
     icon: Blog
   - page: archive
     directory: archives/
