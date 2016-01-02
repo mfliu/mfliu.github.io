@@ -208,7 +208,6 @@ a:focus{
 		img {
 			max-width: 100%;
 			padding: 0.5em 0;
-			margin: auto;
 			display: block;
 		}
 		ul, ol {
@@ -1265,4 +1264,12 @@ table {
         border-bottom: 1px solid lighten(#dce4f1, 2);
         padding:       1rem 0;
     }
+}
+
+.right-headshot {
+	float: right;
+	height: 300px;
+	width: auto;
+	margin-left: 30px;
+	clear: left;
 }
