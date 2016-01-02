@@ -1,0 +1,14 @@
+disqus: ## Your disqus_shortname, e.g. haomwei
+menu:
+  - page: home
+    directory: home/
+    icon: Home
+  - page: blog
+    directory: /
+    icon: Blog
+  - page: archive
+    directory: archives/
+    icon: Archive
+  - page: Photos
+    directory: Nikon-Show-You-The-World/
+    icon: Photos
