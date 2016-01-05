@@ -181,7 +181,6 @@ a:focus {
     .post .post-content img {
       max-width: 100%;
       padding: 0.5em 0;
-      margin: auto;
       display: block; }
     .post .post-content ul, .post .post-content ol {
       overflow: auto;
@@ -1032,3 +1031,10 @@ table {
   table td {
     border-bottom: 1px solid #e3eaf4;
     padding: 1rem 0; }
+
+.right-headshot {
+  float: right;
+  height: 300px;
+  width: auto;
+  margin-left: 30px;
+  clear: left; }
