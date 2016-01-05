@@ -1,7 +1,7 @@
 disqus: ## Your disqus_shortname, e.g. haomwei
 menu:
   - page: home
-    directory: home/
+    directory: /
     icon: Home
   - page: blog
     directory: blog/
