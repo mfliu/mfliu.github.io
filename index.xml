@@ -2,11 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monica Liu</title>
-    <link>https://mfliu.github.io/</link>
+    <link>https://mfliu.github.io/index.xml</link>
     <description>Recent content on Monica Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 24 Dec 2016 23:53:07 -0500</lastBuildDate>
     <atom:link href="https://mfliu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting a Website Underway</title>
+      <link></link>
+      <pubDate>Sat, 24 Dec 2016 23:53:07 -0500</pubDate>
+      
+      <guid></guid>
+      <description>&lt;p&gt;This is my perpetually under construction website that is likely to be perpetually not well updated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mfliu.github.io/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfliu.github.io/photos/</guid>
+      <description>&lt;p&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=https://mfliu.github.io/nikonshowyoutheworld/&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mfliu.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfliu.github.io/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently a grad student in Pittsburgh and this is my perpetually under construction website.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
