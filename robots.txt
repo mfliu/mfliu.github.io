@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mfliu.github.io/sitemap.xml

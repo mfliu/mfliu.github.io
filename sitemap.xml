@@ -1,36 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mfliu.github.io/#intro</loc>
+    <loc>http://mfliu.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://mfliu.github.io/#work</loc>
+    <loc>http://mfliu.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://mfliu.github.io/#about</loc>
-  </url>
-  
-  <url>
-    <loc>https://mfliu.github.io/#contact</loc>
-  </url>
-  
-  <url>
-    <loc>https://mfliu.github.io/#</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfliu.github.io/#</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfliu.github.io/#</loc>
-    <priority>0</priority>
+    <loc>http://mfliu.github.io/tags/</loc>
   </url>
   
 </urlset>
