@@ -1,5 +1,5 @@
 .home {
-  height: 100vh;
+  height: 70vh;
   padding: 0;
   margin: 0;
   color: #f9fafc;
@@ -8,7 +8,7 @@
 
 .background {
   height: 100%;
-  width: 100%;
+  width: 90%;
   padding: 0;
   margin: 0;
   background-attachment: fixed;
@@ -33,7 +33,7 @@
 
 .content {
   position: relative;
-  top: -65%;
+  top: -85%;
   height: 60%;
 }
 
