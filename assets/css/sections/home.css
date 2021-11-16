@@ -135,7 +135,7 @@
 @media only screen and (max-width: 576px) {
   .content {
     position: relative;
-    top: -75%;
+    top: -55%;
     height: 75%;
   }
 
